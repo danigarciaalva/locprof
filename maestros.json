@@ -1,0 +1,109 @@
+{
+  "maestros":[
+		{
+			"nombre":"Freddy Castañeda",
+			"cubiculo": "Centro de Cómputo",
+			"noPersonal": "1234567",
+			"horario":[
+				"7-8":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"8-9":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"9-10":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"10-11":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"11-12":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"12-13":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"13-14":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"14-15":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"15-16":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"16-17":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"17-18":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"18-19":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"19-20":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				],
+				"20-21":[
+					"lunes": "cubiculo",
+					"martes": "cubiculo",
+					"martes": "cubiculo",
+					"miercoles": "cubiculo",
+					"jueves": "cubiculo"
+				]
+			]
+		}
+	]
+}
